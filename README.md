@@ -53,3 +53,7 @@ Now in your Vercel project, settings, Git menu, connect Vercel to your Github re
 https://vercel.com/rickcogley/hugo-quickstart/settings/git
 
 Then to test, make an edit in the site, push to main, then check the URL that Vercel deployed on. 
+
+What my Vercel project settings look like: 
+
+<img width="1187" alt="image" src="https://user-images.githubusercontent.com/512328/135782841-be27797c-bf58-459e-868b-b0909f4e79f5.png">
