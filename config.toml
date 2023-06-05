@@ -1,4 +1,4 @@
 baseURL = "https://hugo-quickstart-lilac.vercel.app"
 languageCode = "ja-jp"
 title = "日本語 Hugo Quickstart Test on Vercel"
-theme = "ananke"
+theme = "webstack"
